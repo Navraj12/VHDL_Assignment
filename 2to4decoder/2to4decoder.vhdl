@@ -13,4 +13,4 @@ ARCHITECTURE	test	OF	test	IS
         Y2	<=	E	AND	A1	AND	(NOT	A0);
         Y1	<=	E	AND	(NOT	A1)	AND	A0;
         Y0	<=	E	AND	(NOT	A1)	AND	(NOT	A0);
-END	test;
+END	test;;
